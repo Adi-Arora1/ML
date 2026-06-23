@@ -73,7 +73,7 @@ A scatter plot of **Predicted LogS vs Experimental LogS** is generated using `ma
 
 | Method | Training MSE | Training R² | Test MSE | Test R² |
 |---|---|---|---|---|
-| Linear Regression |1.007536||0.764505|1.020695|0.789162|
+| Linear Regression |1.007536|0.764505|1.020695|0.789162|
 | Random Forest |1.028228|0.759669|1.407688|0.709223|
 
 
